@@ -23,6 +23,6 @@ INSTALL ZERP.SITE ON WINDOWS
   Paste to your Root Webserver
 ```
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=E2KcZGlz9pw)
+[![Watch the video](https://cdn.gtricks.com/2017/09/3-Simple-Ways-To-Fully-Buffer-a-YouTube-Video-800x450.jpg)](https://www.youtube.com/watch?v=E2KcZGlz9pw)
 
     
