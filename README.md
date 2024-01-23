@@ -22,4 +22,7 @@ INSTALL ZERP.SITE ON WINDOWS
   Copy all files from Reposity
   Paste to your Root Webserver
 ```
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=E2KcZGlz9pw)
+
     
