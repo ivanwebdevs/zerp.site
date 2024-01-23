@@ -14,3 +14,12 @@ INSTALL ZERP.SITE ON UBUNTU & DEBIAN
   mv zerp.site/* ./
 ```
     
+INSTALL ZERP.SITE ON WINDOWS
+
+```step
+  Download This Reposity
+  Extract This Reposity
+  Copy all files from Reposity
+  Paste to your Root Webserver
+```
+    
